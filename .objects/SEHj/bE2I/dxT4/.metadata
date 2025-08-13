@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome UiPath Demo App(1)",
+  "Type": "Screen",
+  "Id": "dxT4YcROXkGCLOZKP0SnhA",
+  "Reference": "UZZTYLyqXE2Zq5m2RZ2mlA/dxT4YcROXkGCLOZKP0SnhA",
+  "ParentRef": "UZZTYLyqXE2Zq5m2RZ2mlA/bE2IDkoB8UGBiSdLGmVg-w",
+  "Created": "2025-08-13T08:59:02.4567635Z",
+  "Updated": "2025-08-13T08:59:02.4567635Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
